@@ -1,0 +1,5 @@
+{
+  "latest_version": "1.0.1",
+  "download_url": "http://your-update-server.com/downloads/latest_version.exe",
+  "release_notes": "http://your-update-server.com/release_notes.html"
+}
